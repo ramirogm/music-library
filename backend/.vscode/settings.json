@@ -1,0 +1,13 @@
+{
+    "files.eol": "\n",
+    // The number of spaces a tab is equal to. This setting is overridden based on the file contents when `editor.detectIndentation` is on.
+    "editor.tabSize": 2,
+    // Inserting and deleting whitespace follows tab stops
+    "editor.useTabStops": false,
+    "git.ignoreLimitWarning": true,
+    // Overrides colors from the currently selected color theme.
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#00a2ff",
+        "titleBar.inactiveBackground": "#0c9aff",
+    }
+}

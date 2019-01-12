@@ -1,0 +1,49 @@
+{
+  "users": {
+    "ramirogm": {
+      "library": {
+        "name": "Ramiro's library",
+        "tracks": [
+          1,
+          3
+        ]
+      }
+    }
+  },
+  "tracks": {
+    "1": {
+      "name": "Something",
+      "mbid": "b849acd4-0638-49ea-8e40-7391613d4890",
+      "artist": {
+        "name": "The Beatles",
+        "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+      },
+      "album": {
+        "artist": "The Beatles",
+        "title": "Abbey Road",
+        "mbid": "e12f53a3-e912-321d-bdc7-ed17ec525ec0"
+      },
+      "media": {
+        "localUrl": "/static/Something_(Beatles_song_-_sample).ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/8d/Something_%28Beatles_song_-_sample%29.ogg"
+      }
+    },
+    "3": {
+      "name": "Atomic",
+      "mbid": "66083e09-9486-43f7-98c4-8253c9a5da58",
+      "artist": {
+        "name": "Blondie",
+        "mbid": "4d2956d1-a3f7-44bb-9a41-67563e1a0c94"
+      },
+      "album": {
+        "artist": "Blondie",
+        "title": "The Best of Blondie",
+        "mbid": "a75ada9c-0ca8-475e-82f2-255ec1704936"
+      },
+      "media": {
+        "localUrl": "/static/Blondie_-_Atomic.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/en/5/57/Blondie_-_Atomic.ogg"
+      }
+    }
+  }
+}

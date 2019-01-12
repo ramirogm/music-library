@@ -106,8 +106,9 @@ and then the tracks with:
 
 and get the audio file with either of these urls:
 
-[(http://localhost:3001/static/Blondie_-_Atomic.ogg)](http://localhost:3001/static/Blondie_-_Atomic.ogg)
+[http://localhost:3001/static/Blondie_-_Atomic.ogg](http://localhost:3001/static/Blondie_-_Atomic.ogg)
 
-[(https://upload.wikimedia.org/wikipedia/en/5/57/Blondie_-_Atomic.ogg)](https://upload.wikimedia.org/wikipedia/en/5/57/Blondie_-_Atomic.ogg)
+
+[https://upload.wikimedia.org/wikipedia/en/5/57/Blondie_-_Atomic.ogg](https://upload.wikimedia.org/wikipedia/en/5/57/Blondie_-_Atomic.ogg)
 
 
